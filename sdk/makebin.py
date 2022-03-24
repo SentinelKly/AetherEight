@@ -1,0 +1,2 @@
+with open('test.bin', 'wb') as fl:
+    fl.write(b'\xEA\x0C\xEA\x0C\xEA\x0C\xEA\x0C\xEA\x0C')
